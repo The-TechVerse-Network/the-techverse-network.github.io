@@ -1,17 +1,26 @@
 # Welcome to The TechVerse Network
 
-##Links
+## Links
 This Website: [Click Here](https://techversenet.ga)
+
+
 Our Tech Tips: [Click Here](https://techversecs.wixsite.com/tvcs/blog)
+
+
 Our YouTube Channel: [Click Here](https://www.youtube.com/channel/UCD6Y1pwh4QRnkyOkviur8hQ)
 
-##Social Links
-###Discord:
-####Tech Talk
+
+## Social Links
+### Discord:
+#### Tech Talk
 [Click Here](https://discord.gg/xCsrZyYDEH)
-####YT Announcements
+
+
+#### YT Announcements
 [Click Here](https://discord.gg/https://discord.gg/ntrrqAJWST)
-###Twitter:
+
+
+### Twitter:
 [Click Here](https://twitter.com/TechVerseIT)
 
 
