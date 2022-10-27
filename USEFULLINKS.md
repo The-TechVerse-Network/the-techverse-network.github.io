@@ -8,5 +8,3 @@ TechVerse OneDrive: [Click Here](ecoadcs-my.sharepoint.com)
 
 
 TechVerse IT Support - Sharepoint: [Click Here](https://ecoadcs.sharepoint.com/sites/TechVerse/Shared%20Documents/Forms/AllItems.aspx)
-
-
