@@ -9,6 +9,8 @@ Our Tech Tips: [Click Here](https://techversecs.wixsite.com/tvcs/blog)
 
 Our YouTube Channel: [Click Here](https://www.youtube.com/channel/UCD6Y1pwh4QRnkyOkviur8hQ)
 
+Useful Links - TV Account Holders Only: [Click Here](https://github.com/The-TechVerse-Network/the-techverse-network.github.io/blob/main/USEFULLINKS.md)
+
 
 ## Social Links
 ### Discord:
